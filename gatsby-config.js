@@ -1,21 +1,21 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://ram.codes/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Ram Krishna Singh',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Ram Codes`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Preparing for GATE 2021 CSE`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@codeitram`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/codeitram`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/codeitram/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Currenlty occupied by GATE after that I would learn Full Stack Devlopment and also will do Competitive Programming to learn all those fancey Algorithms. I personally believe AI is the new electricity and I would enrol for the same in my Masters.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
